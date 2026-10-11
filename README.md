@@ -14,11 +14,7 @@ I work with n8n, APIs, Webhooks, JSON, and AI Agents to connect tools, process i
 
 TECH STACK
 
-"n8n" (https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=white)
-"AI Agents" (https://img.shields.io/badge/AI%20Agents-111111?style=flat-square)
-"APIs" (https://img.shields.io/badge/APIs-111111?style=flat-square)
-"Webhooks" (https://img.shields.io/badge/Webhooks-111111?style=flat-square)
-"JSON" (https://img.shields.io/badge/JSON-111111?style=flat-square&logo=json&logoColor=white)
+"n8n" (https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=white) "AI Agents" (https://img.shields.io/badge/AI%20Agents-111111?style=flat-square) "APIs" (https://img.shields.io/badge/APIs-111111?style=flat-square) "Webhooks" (https://img.shields.io/badge/Webhooks-111111?style=flat-square) "JSON" (https://img.shields.io/badge/JSON-111111?style=flat-square)
 
 FEATURED PROJECTS
 
