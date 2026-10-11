@@ -14,9 +14,10 @@ I work with n8n, APIs, Webhooks, JSON, and AI Agents to connect tools, process i
 
 TECH STACK
 
-"n8n" (https://img.shields.io/badge/n8n-black?style=flat-square)
-
-n8n · AI Agents · APIs · Webhooks · JSON
+- Automation: n8n
+- AI: AI Agents, LLMs
+- Integrations: APIs, Webhooks
+- Data: JSON, Google Sheets
 
 FEATURED PROJECTS
 
