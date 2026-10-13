@@ -1,20 +1,10 @@
-<p align="center">
-  <img
-    src="./banner.png"
-    width="100%"
-    alt="JOÃO PEDRO — AI AUTOMATION | n8n | API INTEGRATIONS"
-  />
-</p>
 João Pedro | AI Automation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=180&section=header&text=JOAO%20PEDRO&fontSize=42&fontColor=FFFFFF&desc=AI%20AUTOMATION%20%7C%20n8n%20%7C%20API%20INTEGRATIONS&descSize=14&descAlignY=72&animation=fadeIn" width="100%" />
+  <img src="./banner.png" width="100%" alt="João Pedro — AI Automation, n8n and API Integrations" />
 </p><p align="center">
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <a href="https://github.com/joaopedro-sntsc">
+    <img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Portfolio" />
   </a>
 </p>---
 
@@ -31,12 +21,12 @@ Currently building practical projects, improving my technical skills, and develo
 Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-111111?style=for-the-badge&logo=webhooks&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Workflows-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Sheets-111111?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/WEBHOOKS-111111?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/AI_WORKFLOWS-111111?style=for-the-badge&logo=openai&logoColor=white" alt="AI Workflows" />
+  <img src="https://img.shields.io/badge/GOOGLE_SHEETS-111111?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
 </p>---
 
 Featured Projects
@@ -45,33 +35,36 @@ Featured Projects
 
 An AI-powered workflow that processes incoming leads, analyzes submitted information, and classifies prospects by priority.
 
-Key features
+Key Features
 
-- Automated lead capture
+- Automated lead capture through forms and webhooks
 - AI-based lead classification
 - Lead scoring and status tracking
 - Google Sheets integration
+- Structured lead data processing
 
 02 — Lead Follow-Up Automation
 
 An automated workflow designed to organize lead follow-ups and help businesses maintain consistent communication with prospects.
 
-Key features
+Key Features
 
 - Lead status management
-- Automated follow-up scheduling
-- Email notifications
+- Follow-up scheduling
+- Automated email notifications
 - Google Sheets updates
+- Reduced manual follow-up tasks
 
 03 — Automated Customer Support
 
 An AI-powered workflow designed to process incoming customer messages, classify requests, and generate relevant responses.
 
-Key features
+Key Features
 
 - Incoming message processing
 - AI-based request classification
 - Automated response generation
+- Conditional workflow logic
 - Structured data processing
 
 ---
@@ -84,6 +77,7 @@ What I Can Build
 - Lead capture and qualification
 - Automated notifications and follow-ups
 - Data processing and workflow optimization
+- AI-assisted customer support
 
 ---
 
@@ -93,6 +87,7 @@ Currently Improving
 - AI agents and multi-agent systems
 - API integrations and error handling
 - Workflow testing and debugging
+- Practical automation solutions for businesses
 
 ---
 
