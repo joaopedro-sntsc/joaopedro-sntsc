@@ -1,8 +1,6 @@
-João Pedro | AI Automation
-
 <p align="center">
   <img
-    src="file_00000000cbec820e9fbe5de8e712f935.png"
+    src="file_00000000d86c820e9957746c835ce566.png"
     width="100%"
     alt="JOÃO PEDRO — AI AUTOMATION | n8n | API INTEGRATIONS"
   />
