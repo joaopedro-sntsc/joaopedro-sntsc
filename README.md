@@ -1,7 +1,7 @@
 João Pedro | AI Automation
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="João Pedro — AI Automation, n8n and API Integrations" />
+  <img src="6cfc0a5d81e9b16707e724fd03a30e0f.png" width="100%" alt="João Pedro — AI Automation, n8n and API Integrations" />
 </p><p align="center">
   <a href="https://github.com/joaopedro-sntsc">
     <img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Portfolio" />
