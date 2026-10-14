@@ -13,7 +13,7 @@ The workflow processes incoming customer messages, classifies requests, and gene
 Workflow
 
 <p align="center">
-  <img src="IMG_20261011_192128.jpg" width="100%" alt="Automated Customer Support workflow built with n8n" />
+  <img src="automated-customer-support.jpg" width="100%" alt="Automated Customer Support workflow built with n8n" />
 </p>How It Works
 
 1. Message Input — Receives an incoming customer message.
