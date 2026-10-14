@@ -38,7 +38,7 @@ Featured Projects
 
 An AI-powered workflow that captures incoming leads, classifies prospects, and organizes lead data using n8n and Google Sheets.
 
-"View Project →" (./projects/ai-lead-qualification/README.md)
+[View Project](./projects/ai-lead-qualification/README.md)
 
 02 — Lead Follow-Up Automation
 
