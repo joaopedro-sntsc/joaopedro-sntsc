@@ -36,39 +36,21 @@ Featured Projects
 
 01 — AI Lead Qualification
 
-An AI-powered workflow that processes incoming leads, analyzes submitted information, and classifies prospects by priority.
+An AI-powered workflow that captures incoming leads, classifies prospects, and organizes lead data using n8n and Google Sheets.
 
-Key Features
-
-- Automated lead capture through forms and webhooks
-- AI-based lead classification
-- Lead scoring and status tracking
-- Google Sheets integration
-- Structured lead data processing
+"View Project →" (./projects/ai-lead-qualification/README.md)
 
 02 — Lead Follow-Up Automation
 
-An automated workflow designed to organize lead follow-ups and help businesses maintain consistent communication with prospects.
+An automated workflow designed to organize lead follow-ups, send email notifications, and update lead records.
 
-Key Features
-
-- Lead status management
-- Follow-up scheduling
-- Automated email notifications
-- Google Sheets updates
-- Reduced manual follow-up tasks
+"View Project →" (./projects/lead-follow-up-automation/README.md)
 
 03 — Automated Customer Support
 
-An AI-powered workflow designed to process incoming customer messages, classify requests, and generate relevant responses.
+An AI-powered workflow designed to classify incoming customer messages and generate relevant responses.
 
-Key Features
-
-- Incoming message processing
-- AI-based request classification
-- Automated response generation
-- Conditional workflow logic
-- Structured data processing
+"View Project →" (./projects/automated-customer-support/README.md)
 
 ---
 
