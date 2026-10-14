@@ -44,14 +44,13 @@ An AI-powered workflow that captures incoming leads, classifies prospects, and o
 
 An automated workflow designed to organize lead follow-ups, send email notifications, and update lead records.
 
-"View Project →" (./projects/lead-follow-up-automation/README.md)
+[View Project](./projects/lead-follow-up-automation/README.md)
 
 03 — Automated Customer Support
 
 An AI-powered workflow designed to classify incoming customer messages and generate relevant responses.
 
-"View Project →" (./projects/automated-customer-support/README.md)
-
+[View Project](./projects/automated-customer-support/README.md)
 ---
 
 What I Can Build
