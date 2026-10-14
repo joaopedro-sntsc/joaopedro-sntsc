@@ -11,7 +11,7 @@ This project demonstrates an automated lead qualification workflow built with n8
 The goal is to help businesses organize incoming leads, reduce manual work, and make follow-up processes more efficient.
 
 <p align="center">
-  <img src="./workflow.png" width="100%" alt="AI Lead Qualification workflow built with n8n" />
+  <img src="IMG_20261011_203541.jpg" width="100%" alt="AI Lead Qualification workflow built with n8n" />
 </p>
 Workflow
 
