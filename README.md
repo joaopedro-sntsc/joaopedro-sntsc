@@ -51,6 +51,7 @@ An automated workflow designed to organize lead follow-ups, send email notificat
 An AI-powered workflow designed to classify incoming customer messages and generate relevant responses.
 
 [View Project](./projects/automated-customer-support/README.md)
+
 ---
 
 What I Can Build
