@@ -12,7 +12,7 @@ The goal is to help businesses organize incoming leads, reduce manual work, and 
 
 Workflow
 <p align="center">
-  <img src="IMG_20261011_203541.jpg" width="100%" alt="AI Lead Qualification workflow built with n8n" />
+  <img src="ai-lead-qualification.jpg" width="100%" alt="AI Lead Qualification workflow built with n8n" />
 </p>
 
 Process:
