@@ -15,7 +15,7 @@ By connecting these applications, the automation reduces repetitive manual tasks
 Workflow
 
 <p align="center">
-  <img src="./workflow.png" width="100%" alt="Lead Follow-Up Automation workflow built with n8n" />
+  <img src="IMG_20261011_203253.jpg" width="100%" alt="Lead Follow-Up Automation workflow built with n8n" />
 </p>How It Works
 
 1. Lead Data — Retrieves lead information from Google Sheets.
